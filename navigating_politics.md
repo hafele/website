@@ -17,7 +17,7 @@ In brief, as we consume more accurate and relevant information and become more e
 
 Unsurprisingly, I have simply described the ideas behind representative democracy itself. But these concepts are very much worth emphasizing, as a reminder that democracies cannot thrive nor survive without civic education and engagement. 
 
->"It falls to each of us to be those anxious, jealous guardians of our democracy; to embrace the joyous task we've been given to continually try to improve this great nation of ours. Because for all our outward differences, we, in fact, all share the same proud title, the most important office in a democracy: Citizen." - Barack Obama
+>"It falls to each of us to be those anxious, jealous guardians of our democracy; to embrace the joyous task we've been given to continually try to improve this great nation of ours. Because for all our outward differences, we, in fact, all share the same proud title, the most important office in a democracy: Citizen." - Barack Obama, <a href="https://youtu.be/QDyjUIsD-wQ?t=2304">Farewell Address</a>
 
 ## 2. Refine Your Core Principles
 Once we accept that politics is worthy of our time, the next thing to do is refine our core principles. In this context, "core principles" refers to fundamental tenets that serve as foundations for our more specific political beliefs. I think of them as lighthouses that shine brightly at night to help seafarers navigate. Here are a couple examples:
