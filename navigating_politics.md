@@ -91,18 +91,7 @@ Navigators must be able to distinguish between the island and the mirage, or els
 * Use reliable sources
 	* These are people or organizations who are knowledgeable and believable
 	* Reliable sources often have solid track records
-	* However, don't just take experts at their word simply because they're considered experts, as the following video explains:
-
-<div class="YouTube">
-	<iframe
-		src='https://www.youtube.com/embed/R7FAAfK78_M'
-		frameborder='0'
-		allowfullscreen>
-	</iframe>
-</div>
-
-<br>
-
+	* However, <a href="https://youtu.be/R7FAAfK78_M?t=1075">don't just take experts at their word simply because they're considered experts</a>
 * Recognize that there are different kinds of facts
 	* Some facts are well understood established, and are irrefutable
 	* Other facts are based on statistical analysis, which may not be perfect
