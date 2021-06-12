@@ -83,11 +83,43 @@ If your answer to any one of these is "yes", perhaps you should refine your init
 It's often the case that generalized political views are not robust enough to handle the nuances of reality, indicating that we need to further clarify our positions. Overall, as we form and refine political viewpoints, we should be aware of how broadly or narrowly they should apply. The devil is truly in the details. 
 
 ### 3.3 Establish Facts
-Navigators must be able to distinguish between the island and the mirage, or else the wrong path may be taken. Likewise, to effectively refine our political views, we must have a solid understanding of reality. This means we must be able to determine what is true and what is false. This may seem obvious and perhaps trivial given advancements in modern technology. After all, nearly anything is just a Google search away. However, we are battling with the facts that 1) new information is being added to our body of knowledge at an extremely rapid pace, and 2) not all that information is actually factual.
+Navigators must be able to distinguish between the island and the mirage, or else the wrong path may be taken. Likewise, to effectively refine our political views, we must have a solid understanding of reality. This means we must be able to determine what is true and what is false. This may seem obvious and perhaps trivial given advancements in modern technology. After all, nearly anything is just a Google search away. However, we are battling with the facts that 1) new information is being added to our body of knowledge at an extremely rapid pace, and 2) not all that information is actually factual. Here are some tips we can use to ascertain facts:
 
-To ascertain facts, we must have good sources of information. Good sources of information are people or organizations who are knowledgable, believable, and honest. To further ascertain facts, it is useful to get the perspective of more than a single resource. This is especially true if the facts are not clear (instead of relying on only the stars, perhaps the navigator should also use a compass). If there is less variation in factual assertions amongst many subject matter experts on a given topic, we can have a higher confidence in relying on those assertions. In other words, for example, if 999 out of 1000 reliable researchers conclude that ingesting a certain chemical will cause death, it's probably best to listen to the 999 researchers who agree instead of the 1 who doesn't. In other instances, the facts may not be readily available just yet, simply because the truth of the matter has not been determined yet.
+* Do the research
+	* Spend time learning and seeking the facts
+	* Behave like a scientist and keep an open mind
+* Use reliable sources
+	* These are people or organizations who are knowledgeable and believable
+	* Reliable sources often have solid track records
+	* However, don't just take experts at their word simply because they're considered experts, as the following video explains:
 
-Moreover, recognize that not all facts remain true indefinitely. Sometimes, what was once false later becomes true (and vice versa). As such, it is often important to reassess our viewpoints as new evidence arises.
+<div class="YouTube">
+	<iframe
+		src='https://www.youtube.com/embed/R7FAAfK78_M'
+		frameborder='0'
+		allowfullscreen>
+	</iframe>
+</div>
+
+* Recognize that there are different kinds of facts
+	* Some facts are well understood established, and are irrefutable
+	* Other facts are based on statistical analysis, which may not be perfect
+	* Certain other facts are based on human observation, which may also not be perfect
+* Favor primary sources over secondary sources
+	* This helps reduce noise / misinterpretations from secondary sources
+	* However, secondary sources may also have valuable interpretations of primary sources
+	* Therefore, refer to secondary sources with caution
+* Consider the strength of sources
+	* For studies: Was the study structured well, with an adequate sample size?
+	* For event reporting: Was the source at the event when it occurred?
+* Consider more than one source
+	* Don't cherry-pick sources
+	* Look for patterns among sources (i.e. do 99 of 100 sources agree?)
+* Recognize that facts change over time
+	* Falsehoods can later become fact (and vice versa)
+	* Thus, we should re-assess our viewpoints as new evidence arises
+* Recognize that facts may not be available yet
+	* Sometimes the truth of the matter has not yet been determined
 
 >"Blessed be the Lord who believe any mess they read up on a message board." - <a href="https://www.youtube.com/watch?v=cDYHraHnjJE">MF DOOM</a>
 
