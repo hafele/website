@@ -101,6 +101,8 @@ Navigators must be able to distinguish between the island and the mirage, or els
 	</iframe>
 </div>
 
+<br>
+
 * Recognize that there are different kinds of facts
 	* Some facts are well understood established, and are irrefutable
 	* Other facts are based on statistical analysis, which may not be perfect
