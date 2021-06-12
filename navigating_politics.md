@@ -17,7 +17,7 @@ In brief, as we consume more accurate and relevant information and become more e
 
 Unsurprisingly, I have simply described the ideas behind representative democracy itself. But these concepts are very much worth emphasizing, as a reminder that democracies cannot thrive nor survive without civic education and engagement. 
 
->"It falls to each of us to be those anxious, jealous guardians of our democracy; to embrace the joyous task we've been given to continually try to improve this great nation of ours. Because for all our outward differences, we, in fact, all share the same proud title, the most important office in a democracy: Citizen." - Barack Obama, <a href="https://youtu.be/QDyjUIsD-wQ?t=2304">Farewell Address</a>
+>"It falls to each of us to be those anxious, jealous guardians of our democracy; to embrace the joyous task we've been given to continually try to improve this great nation of ours. Because for all our outward differences, we, in fact, all share the same proud title, the most important office in a democracy: Citizen." - <a href="https://youtu.be/QDyjUIsD-wQ?t=2304">Barack Obama</a>
 
 ## 2. Refine Your Core Principles
 Once we accept that politics is worthy of our time, the next thing to do is refine our core principles. In this context, "core principles" refers to fundamental tenets that serve as foundations for our more specific political beliefs. I think of them as lighthouses that shine brightly at night to help seafarers navigate. Here are a couple examples:
@@ -40,7 +40,7 @@ Sometimes, our principles may not mesh well with those of others, and therefore 
 ### 2.4 Refine
 Simply put, it's healthy to challenge our core principles, especially in the context of new information. While it may feel like challenging our deeply held principles threatens our very identities, we shouldn't be afraid to change. Rather, we should strive to make openness to change a part of our identities. Sometimes, lighthouses need upgraded lighting, or they need to be built a little higher. Other times, the sea has changed so much that the presence of the lighthouse is no longer needed, and a new one needs to be built elsewhere.
 
->"A hallmark of wisdom is knowing when it's time to abandon some of your most treasured [beliefs] - and some of the most cherished parts of your identity." - Adam Grant, <a href="https://www.amazon.com/Think-Again-Power-Knowing-What/dp/1984878107/ref=sr_1_1?dchild=1&keywords=think+again&qid=1622512494&s=books&sr=1-1">Think Again</a>
+>"A hallmark of wisdom is knowing when it's time to abandon some of your most treasured [beliefs] - and some of the most cherished parts of your identity." - <a href="https://www.amazon.com/Think-Again-Power-Knowing-What/dp/1984878107/ref=sr_1_1?dchild=1&keywords=think+again&qid=1622512494&s=books&sr=1-1">Adam Grant</a>
 
 ## 3. Refine Your Political Views
 If our core principles are lighthouses, then our political views are the routes that navigators decide to take. While lighthouses help guide the navigators, additional factors must be taken into consideration before deciding on the appropriate routes. Perhaps the navigator finally realized that he going in the wrong direction, or maybe he discovered that an even better destination exists. Or perhaps the navigator is too far from the shore and cannot see any lighthouses for guidance. Sometimes he may need to rely upon the stars to get a better sense of direction.
@@ -89,7 +89,7 @@ To ascertain facts, we must have good sources of information. Good sources of in
 
 Moreover, recognize that not all facts remain true indefinitely. Sometimes, what was once false later becomes true (and vice versa). As such, it is often important to reassess our viewpoints as new evidence arises.
 
->"Blessed be the Lord who believe any mess they read up on a message board." - MF DOOM, <a href="https://www.youtube.com/watch?v=cDYHraHnjJE">Vomitspit</a>
+>"Blessed be the Lord who believe any mess they read up on a message board." - <a href="https://www.youtube.com/watch?v=cDYHraHnjJE">MF DOOM</a>
 
 ### 3.4 Distinguish Facts From Opinions
 We also need to take care to ensure we are distinguishing facts from opinions. Many public personalities and organizations (e.g. news organizations) often tangle fact and opinion, so we should pay close attention to the specific language used when information is presented. Besides paying attention to the language used by others, a more direct approach may be to obtain facts directly from primary sources (such as research reports and journalists on-the-ground) rather than through intermediary sources. We can first form our own opinions based on the direct facts, and then we can listen to the opinions formed by others.
@@ -155,7 +155,7 @@ Similarly, we should make efforts to listen to and learn from a wide variety of 
 #### Be Willing To Change
 We should also be open-minded and have the humility to admit when we are wrong. Perhaps a fact underlying one of our views was false, or maybe our opinion was based on vague core principles. We're human; nobody has the right answer or best opinion on every single issue. Therefore, we should embrace moments when we are able to change for the better.
 
->"I ... shifted my mind-set from thinking 'I’m right' to asking myself 'How do I know I’m right?' And I saw clearly that the best way to answer this question is by finding other independent thinkers who are on the same mission as me and who see things differently from me. By engaging them in thoughtful disagreement, I’d be able to understand their reasoning and have them stress-test mine. That way, we can all raise our probability of being right. In other words, I just want to be right — I don’t care if the right answer comes from me." - Ray Dalio, <a href="https://www.amazon.com/gp/product/1501124021/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1501124021&linkCode=as2&tag=principles00-20&linkId=c28b7b5430e581a3384015c701bd21a8">Principles</a>
+>"I ... shifted my mind-set from thinking 'I’m right' to asking myself 'How do I know I’m right?' And I saw clearly that the best way to answer this question is by finding other independent thinkers who are on the same mission as me and who see things differently from me. By engaging them in thoughtful disagreement, I’d be able to understand their reasoning and have them stress-test mine. That way, we can all raise our probability of being right. In other words, I just want to be right — I don’t care if the right answer comes from me." - <a href="https://www.amazon.com/gp/product/1501124021/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1501124021&linkCode=as2&tag=principles00-20&linkId=c28b7b5430e581a3384015c701bd21a8">Ray Dalio</a>
 
 ## 4. Participate
 Having refined core principles and political views is not sufficient in order for governments to function: we must be also be active participants in the political process, which means we must communicate with other participants about issues of concern. This is especially true for those of us lucky enough to live in democracies.
