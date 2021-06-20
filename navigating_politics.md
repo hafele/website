@@ -2,7 +2,7 @@ Right now, the world is facing a number of major crises. To name a few: climate 
 
 If we (citizens of democracies) were better-informed, then we would be more likely to elect better representatives, who would then craft better solutions to these issues. But how do we become "better-informed" citizens? How do we navigate through a virtually unlimited amount of information and formulate "better" political views, and synthesize that knowledge to vote for "better" representatives?
 
-Here are my thoughts.
+Here are some ideas.
 
 ## 1. Recognize the Importance of Politics
 First, a more fundamental question should be answered: Why should anyone care about politics at all? Politics can be boring, and political discussions often cause tensions between disagreeing sides. Moreover, no single ordinary person can move the needle in terms of creating substantive change, so is it even worth the headache?
