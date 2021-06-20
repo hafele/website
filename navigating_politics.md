@@ -234,25 +234,25 @@ Here are some additional voting resources (for US citizens):
 
 ## Summary 
 
-1. Recognize the importance of politics
+1. [Recognize the importance of politics](#1-recognize-the-importance-of-politics)
   - Politics impacts us all, now and in the future
   - Accurate Information + Engagement → Better Representation → Better Outcomes
-1. Refine your core principles
-	1. Make them consistent with one another
-	1. Make them unambiguous
-	1. Recognize the limits of their political usefulness
-	1. Refine your principles often
-1. Refine your (more specific) political views
-	1. Distinguish between personal and policy views
-	1. Avoid overgeneralizations
-	1. Establish facts using reliable sources
-	1. Distinguish between facts and opinions
-	1. Form reasoned opinions
-	1. Use thought experiments to clarify your views
-	1. Beware of cognitive biases and logical fallacies
-	1. Refine your views often
-1. Participate in civic society
-  1. Prioritize
-  1. Engage
+1. [Refine your core principles](#2-refine-your-core-principles)
+	1. [Make them consistent with one another](#2-1-minimize-inconsistencies)
+	1. [Make them unambiguous](#2-2-reduce-ambiguity)
+	1. [Recognize the limits of their political usefulness](#2-3-recognize-limitations)
+	1. [Refine your principles](#2-4-refine)
+1. [Refine your (more specific) political views](#3-refine-your-political-views)
+	1. [Distinguish between personal and policy views](#3-1-distinguish-personal-vs-policy-views)
+	1. [Avoid overgeneralizations](#3-2-avoid-overgeneralizations)
+	1. [Establish facts using reliable sources](#3-3-establish-facts)
+	1. [Distinguish between facts and opinions](#3-4-distinguish-facts-from-opinions)
+	1. [Form reasoned opinions](#3-5-form-reasoned-opinions)
+	1. [Use thought experiments to clarify your views](#3-6-perform-thought-experiments)
+	1. [Beware of cognitive biases and logical fallacies](#3-7-beware-of-cognitive-biases-and-logical-fallacies)
+	1. [Refine your views](#3-8-refine)
+1. [Participate in civic society](#4-participate)
+  1. [Prioritize](#4-1-prioritize)
+  1. [Engage](#4-2-engage)
 	  - Speak, listen, learn
 	  - Vote!
