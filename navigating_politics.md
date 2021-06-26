@@ -256,3 +256,7 @@ Here are some additional voting resources (for US citizens):
   1. [Engage](#4-2-engage)
 	  - Speak, listen, learn
 	  - Vote!
+
+## Change History
+
+Recognizing that even these principles are by no means perfect and can be further refined, a full change history is publicly available on [GitHub](https://github.com/hafele/website/commits/main/navigating_politics.md).
