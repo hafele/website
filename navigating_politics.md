@@ -1,4 +1,4 @@
-Right now, the world is facing a number of major crises. To name a few: climate change, nuclear proliferation, war, pandemics, pollution, economic inequality, and de-democratization. Because of the magnitude of these crises, political solutions are often required. In democracies, solutions are crafted by representatives who are elected by voting citizens. 
+Right now, the world is facing a number of major crises. To name a few: climate change, nuclear proliferation, war, pandemics, pollution, economic inequality, and de-democratization. Given the magnitude of these crises, political solutions are often required. In democracies, solutions are crafted by representatives who are elected by voting citizens. 
 
 If we (citizens of democracies) were better-informed, then we would be more likely to elect better representatives, who would then craft better solutions to these issues. But how do we become "better-informed" citizens? How do we navigate through a virtually unlimited amount of information and formulate "better" political views, and synthesize that knowledge to vote for "better" representatives?
 
@@ -20,7 +20,7 @@ Unsurprisingly, I have simply described the ideas behind representative democrac
 >"It falls to each of us to be those anxious, jealous guardians of our democracy; to embrace the joyous task we've been given to continually try to improve this great nation of ours. Because for all our outward differences, we, in fact, all share the same proud title, the most important office in a democracy: Citizen." - <a href="https://youtu.be/QDyjUIsD-wQ?t=2304">Barack Obama</a>
 
 ## 2. Refine Your Core Principles
-Once we accept that politics is worthy of our time, the next thing to do is refine our core principles. In this context, "core principles" refers to fundamental tenets that serve as foundations for our more specific political beliefs. I think of them as lighthouses that shine brightly at night to help seafarers navigate. Here are a couple examples:
+Once we accept that politics are worthy of our time, the next thing to do is refine our core principles. In this context, "core principles" refers to fundamental tenets that serve as foundations for our more specific political beliefs. I think of them as lighthouses that shine brightly at night to help seafarers navigate. Here are a couple examples:
 
 1. Seek the truth
 1. Follow the negative Golden Rule: Don't treat others in ways that you wouldn't want to be treated
@@ -32,10 +32,10 @@ We can define our core principles in any way we want. There are no right or wron
 If our core principles are going to be useful, they cannot be inconsistent with one another. For example, if my core principles are "do A" and "don't do A", then what exactly do I do? Often, contradictions are much more difficult to identify; even the principles I list above may be contradictory in certain scenarios. So we have to step back and think more deeply about how our principles conflict with one another. With that being said, a worthy goal is to reduce inconsistencies as much as possible. When they do arise, we should think deeply about why the inconsistencies exist, and if necessary, change them to make them more robust.
 
 ### 2.2 Reduce Ambiguity
-We should also try to make our core principles clear and unambiguous. For example, “follow the Bible” is actually quite unclear, as <a href="https://www.pewforum.org/religious-landscape-study/christians/christian/">Christians interpret the Bible differently</a>. Should the Bible be followed in a literal sense? What about instances when the Bible provides guidance that appears contradictory? Or what if certain elements of the Bible conflict with other core principles? In this case, core principles can be derived by thinking more deeply about one's interpretation of the Bible. Making our core principles unambiguous will help reduce confusion once applied to real-world scenarios. Similarly, navigators need to see light from the lighthouses clearly to guide them along their ways.
+We should also try to make our core principles clear and unambiguous. For example, “follow the Bible” is quite unclear, as <a href="https://www.pewforum.org/religious-landscape-study/christians/christian/">Christians interpret the Bible differently</a>. Should the Bible be followed in a literal sense? What about instances when the Bible provides guidance that appears contradictory? Or what if certain elements of the Bible conflict with other core principles? In this case, core principles can be derived by thinking more deeply about one's interpretation of the Bible. Making our core principles unambiguous will help reduce confusion once applied to real-world scenarios. Similarly, navigators need to see light from the lighthouses clearly to guide them along their ways.
 
 ### 2.3 Recognize Limitations
-Sometimes, our principles may not mesh well with those of others, and therefore they may have limited use in forming real-world political views. As an extreme example, consider the core principle that “all life should end.” One is fully entitled to hold that principle, but it's completely useless when dealing with real issues. This is important because politics, by definition, is concerned with interactions between many people. We need our lighthouses to be built by the water so seafarers can actually use them, not 100 miles inland.
+Sometimes, our principles may not mesh well with those of others, and therefore they may have limited use in forming real-world political views. As an extreme example, consider the core principle that “all life should end.” One is fully entitled to hold that principle, but it's completely useless when dealing with real issues. This is important because politics, by definition, is concerned with interactions between many people. We need our lighthouses to be built by the water, not 100 miles inland, so seafarers can actually use them.
 
 ### 2.4 Refine
 Simply put, it's healthy to challenge our core principles, especially in the context of new information. While it may feel like challenging our deeply held principles threatens our very identities, we shouldn't be afraid to change. Rather, we should strive to make openness to change a part of our identities. Sometimes, lighthouses need upgraded lighting, or they need to be built a little higher. Other times, the sea has changed so much that the presence of the lighthouse is no longer needed, and a new one needs to be built elsewhere.
@@ -43,9 +43,9 @@ Simply put, it's healthy to challenge our core principles, especially in the con
 >"A hallmark of wisdom is knowing when it's time to abandon some of your most treasured [beliefs] - and some of the most cherished parts of your identity." - <a href="https://www.amazon.com/Think-Again-Power-Knowing-What/dp/1984878107/ref=sr_1_1?dchild=1&keywords=think+again&qid=1622512494&s=books&sr=1-1">Adam Grant</a>
 
 ## 3. Refine Your Political Views
-If our core principles are lighthouses, then our political views are the routes that navigators decide to take. While lighthouses help guide the navigators, additional factors must be taken into consideration before deciding on the appropriate routes. Perhaps the navigator finally realized that he going in the wrong direction, or maybe he discovered that an even better destination exists. Or perhaps the navigator is too far from the shore and cannot see any lighthouses for guidance. Sometimes he may need to rely upon the stars to get a better sense of direction.
+If our core principles are lighthouses, our political views are the routes that navigators decide to take. While lighthouses help guide the navigators, additional factors must be taken into consideration before deciding on the appropriate routes. Perhaps the navigator finally realized that he going in the wrong direction, or maybe he discovered that an even better destination exists. Or perhaps the navigator is too far from the shore and cannot see any lighthouses for guidance. Sometimes he may need to rely upon the stars to get a better sense of direction.
 
-Once we establish and refine our core principles, hopefully we'll then have an easier time forming and refining our views on more specific, real-life political issues. But formulating well-thought out political views can often be a difficult exercise. This evidenced by the fact that there are so many public policy disagreements today, even among policy experts. Nevertheless, doing so is a critical part of being a citizen, especially for those of us lucky enough to live in democracies. Here are some recommendations that can help us better refine our political viewpoints.
+Once we establish and refine our core principles, hopefully we'll have an easier time forming and refining our views on more specific, real-life political issues. But formulating well-thought out political views is often a difficult exercise. This evidenced by the fact that there are so many public policy disagreements today, even among policy experts. Nevertheless, doing so is a critical part of being a citizen, especially for those of us lucky enough to live in democracies. Here are some recommendations that can help us better refine our political viewpoints.
 
 ### 3.1 Distinguish Personal Vs. Policy Views
 While our personal views can help inform our political views, we should remember that politics is concerned with governance systems that work for society at large, not just for us and those close to us. Therefore, we should consider formulating viewpoints applicable to the public more broadly instead of ourselves alone. Compare and contrast the following personal and public policy views:
@@ -62,10 +62,10 @@ While our personal views can help inform our political views, we should remember
 - Personal: I would never have an abortion.
 - Public Policy: I think our government should ban all abortions.
 
-These examples illustrate the fact that our personal views, preferences, practices are very different from how we think all of society should live. Robust public policy views are ones that enable individuals to live the way they want, while at the same time avoiding infringing upon the rights of others. This is much easier said than done, of course.
+These examples illustrate the fact that our personal views, preferences, and practices are very different from how we think all of society should live. Robust public policy views are ones that enable individuals to live the way they want, while at the same time avoiding infringing upon the rights of others. This is much easier said than done, of course.
 
 ### 3.2 Avoid Overgeneralizations
-While core principles are often apply to a wide range of scenarios, policy views are much more specific. Sometimes, however, people tout policy views that are overgeneralized. These views are appealing because they're simple and easy to remember, but they're often not very useful in practice, and in some cases they can lead to wrong or contradictory conclusions. A navigator may point in one direction and claim "that is where we must go," but the navigator is ignoring the facts that the route is not simply a straight line, the ship must circumvent land masses and storms, the ship must carefully navigate through canals, etc. 
+While core principles often apply to a wide range of scenarios, policy views are much more specific. Sometimes, however, people tout policy views that are overgeneralized. These views are appealing because they're simple and easy to remember, but they're often not very useful in practice, and in some cases they can lead to wrong or contradictory conclusions. A navigator may point in one direction and claim "that is where we must go," but the navigator is ignoring the facts that the route is not simply a straight line, the ship must circumvent land masses and storms, the ship must carefully navigate through canals, etc. 
 
 Suppose your political viewpoint is as follows:
 
@@ -94,12 +94,12 @@ Navigators must be able to distinguish between the island and the mirage, or els
 	* However, <a href="https://youtu.be/R7FAAfK78_M?t=1075">don't just take experts at their word simply because they're considered experts</a>
 * Recognize that there are different kinds of facts
 	* Some facts are well understood established, and are irrefutable
-	* Other facts are based on statistical analysis, which may not be perfect
+	* Other facts are based on statistical analyses, which may not be perfect
 	* Certain other facts are based on human observation, which may also not be perfect
 * Favor primary sources over secondary sources
-	* This helps reduce noise / misinterpretations from secondary sources
+	* This helps reduce misinterpretations coming from secondary sources
 	* However, secondary sources may also have valuable interpretations of primary sources
-	* Therefore, refer to secondary sources with caution
+	* Therefore, use secondary sources, but only with caution
 * Consider the strength of sources
 	* For studies: Was the study structured well, with an adequate sample size?
 	* For event reporting: Was the source at the event when it occurred?
@@ -111,39 +111,40 @@ Navigators must be able to distinguish between the island and the mirage, or els
 	* Thus, we should re-assess our viewpoints as new evidence arises
 * Recognize that facts may not be available yet
 	* Sometimes the truth of the matter has not yet been determined
+	* Other times, the truth may never be known
 
 >"Blessed be the Lord who believe any mess they read up on a message board." - <a href="https://www.youtube.com/watch?v=cDYHraHnjJE">MF DOOM</a>
 
 ### 3.4 Distinguish Facts From Opinions
-We also need to take care to ensure we are distinguishing facts from opinions. Many public personalities and organizations (e.g. news organizations) often tangle fact and opinion, so we should pay close attention to the specific language used when information is presented. Besides paying attention to the language used by others, a more direct approach may be to obtain facts directly from primary sources (such as research reports and journalists on-the-ground) rather than through intermediary sources. We can first form our own opinions based on the direct facts, and then we can listen to the opinions formed by others.
+We also need to ensure we are distinguishing facts from opinions. Many public personalities and organizations (e.g. news organizations) often tangle fact and opinion, so we should pay close attention to the specific language used when information is presented. Besides paying attention to the language used by others, a more direct approach may be to obtain facts directly from primary sources (such as research reports and journalists on-the-ground) rather than through intermediary sources, as mentioned earlier. We can first form our own opinions based on the direct facts, and then we can listen to the opinions formed by others to get different perspectives on those facts.
 
 ### 3.5 Form Reasoned Opinions
-Once ascertained, the facts can be used to help us establish informed opinions. We should take the liberty to formulate our opinions by both a) thinking independently of others and b) bouncing ideas off of one another. This isn't always easy, especially given that the most contentious political issues deal with facts and circumstances that are not often clear or certain, but where political decisions nevertheless must be made.
+Once ascertained, facts can be used to help us establish informed opinions. We should take the liberty to formulate our opinions by both a) thinking independently of others and b) bouncing ideas off of one another. This isn't always easy, especially given that the most contentious political issues deal with facts and circumstances that are not often clear or certain, but where political decisions nevertheless must be made.
 
-When considering a policy proposal, we should assess the reasonable consequences of enacting (or not enacting) that policy. For example, if governments enshrine strict carbon emission caps into law, what are the reasonable consequences of doing so, based on the most reliable facts available? And what are the reasonable consequences of not doing so? Moreover, what are the reasonable consequences of taking some alternative course of action? In this particular scenario, we should consider what climate researchers, economists, and subject matter experts think those consequences may be.
+When considering a policy proposal, we should assess the reasonable consequences of enacting (or not enacting) that policy. For example, if governments enshrine strict carbon emission limits into law, what are the reasonable consequences of doing so, based on the most reliable facts available? And what are the reasonable consequences of not doing so? Moreover, what are the reasonable consequences of taking some alternative course of action? In this particular scenario, we should consider what climate researchers, economists, and subject matter experts believe those consequences may be.
 
 We should also beware of those who cherry-pick certain facts (or utilize other logical fallacies or exhibit certain cognitive biases, as discussed below) as a basis for their opinions, whether intentionally or not. Those who do so often form fragile opinions.
 
-Last but not least, the opinions of others (including subject matter experts) may be based in part on their own core principles, which may not align with ours. Therefore, it's important to identify the bases for their opinions. Are their bases primarily fact-based or principles-based? Fact-based opinions are easier accept, even if our principles differ significantly.
+Last but not least, the opinions of others (including subject matter experts) may be based in part on their own core principles, which may not align with ours. Therefore, it's important to identify the bases for their opinions. Are their bases primarily fact-based or principles-based? Fact-based opinions are easier to accept, even if our principles differ significantly.
 
 
 ### 3.6 Perform Thought Experiments
-When confronting political issues, it may be useful to use thought experiments to help provide direction. One thought example in particular comes in handy, especially for those who follow some form of the Golden (or Platinum) Rule: John Rawls's Original Position (also referred to as the Veil of Ignorance). The thought experiment works like this:
+When confronting political issues, thought experiments may help provide direction. One example in particular comes in handy, especially for those who follow some form of the Golden (or Platinum) Rule: John Rawls's Original Position, also referred to as the Veil of Ignorance. The thought experiment works like this:
 
 - Imagine you are a stick figure locked inside a room
 - You can look out the window and see society as it actually is in real life
 - Your goal while in the room is to craft the laws that society must follow
-- After you craft the rules, you can then exit the room
+- After you craft the laws, you can then exit the room
 - When you exit the room, you will instantly transform into your actual, real-life self
 - Until then, you won't know your race, religion, sexual preference, gender, etc.
 - As a stick figure in the room, how should you craft these laws, not knowing how you will fit into the society?
 
-If you considered basing your laws on the Christian Bible, think about how you would feel if you transformed into a Hindu. If you considered crafting laws that gave men advantages over women, think about how you would feel if you transformed into a woman. If you considered crafting laws that discriminated against LGBTQ people, think about how you would feel if you were LGBTQ.
+If you considered basing your laws on the Christian Bible, think about how you would feel if you transformed into a person who practices Hinduism. If you considered crafting laws that gave men advantages over women, think about how you would feel if you transformed into a woman. If you considered crafting laws that discriminated against LGBTQ people, think about how you would feel if you were LGBTQ.
 
-This thought experiment is not perfect, but it can be very useful in many contexts. Also consider <a href="http://wrap.warwick.ac.uk/78470/1/WRAP_Brownlee%20and%20Stemplowska%20-%20Thought%20Experiments%20.pdf">additional thought experiments</a> (including creating our own) that may help put issues into context.
+This thought experiment is not perfect, but it can be very useful in many contexts. Also consider <a href="http://wrap.warwick.ac.uk/78470/1/WRAP_Brownlee%20and%20Stemplowska%20-%20Thought%20Experiments%20.pdf">additional thought experiments</a> (including creating your own) that may help put issues into context.
 
 ### 3.7 Beware of Cognitive Biases and Logical Fallacies
-Upon assessing a political issue, we should be aware of (and try to avoid) cognitive biases and logical fallacies. Cognitive biases are errors in judgement and include things like:
+Upon assessing a political issue, we should beware of cognitive biases and logical fallacies. Cognitive biases are errors in judgement and include things like:
 
 - Availability Heuristic: You're more influenced by something that comes to mind quickly
 - Confirmation Bias: You prefer things that confirm your pre-existing beliefs
@@ -166,14 +167,14 @@ More complete lists of cognitive biases and logical fallacies, as well as ways t
 	- <a href="https://en.wikipedia.org/wiki/List_of_fallacies">Wikipedia: List of Logical Fallacies</a>
 
 ### 3.8 Refine
-As it is necessary to refine and update our core principles, it is also necessary important to refine and update our political views. This is perhaps more necessary, given that life is ever-changing. Here are some recommendations:
+As it is important to refine and update our core principles, it is also important to refine and update our political views. The latter is perhaps more necessary, given that life is ever-changing. Here are some recommendations:
 
 #### Consider New Information
-New information often arises which may force us to challenge our existing views. Perhaps a new technology enables us to do things that we weren't once able to do. For example, imagine if scientists were able to create a large nuclear fusion reactor that is able to provide the world with a virtually endless source of clean energy. How would that influence someone's views on energy consumption policies? Considering new information can help use form new viewpoints or better-refine existing ones, and therefore we should seek out new information often (again, as long as it is reliable).
+New information often arises which may force us to challenge our existing views. Perhaps a new technology enables us to do things that we weren't once able to do. For example, imagine if scientists were able to create a large nuclear fusion reactor that is able to provide the world with a virtually endless source of clean energy. How would that influence someone's views on energy consumption policies? Considering new information can help us form new viewpoints or better-refine existing ones, and therefore we should seek out new information often.
 
 #### Listen and Learn
 Navigators can improve their skills by learning from other navigators, or even from others whose skills may come in handy for journeys across the sea.
-Similarly, we should make efforts to listen to and learn from a wide variety of informed and believable perspectives, especially those we disagree with. We should try to understand logically why our views differ from those of others, and recognize that we don't always have to agree (or disagree) with them.
+Similarly, we should make efforts to learn from a wide variety of informed and believable perspectives, especially those we disagree with. We should try to understand logically why our views differ from those of others, and recognize that we don't always have to agree (or disagree) with them.
 
 #### Be Willing To Change
 We should also be open-minded and have the humility to admit when we are wrong. Perhaps a fact underlying one of our views was false, or maybe our opinion was based on vague core principles. We're human; nobody has the right answer or best opinion on every single issue. Therefore, we should embrace moments when we are able to change for the better.
@@ -181,13 +182,11 @@ We should also be open-minded and have the humility to admit when we are wrong. 
 >"I ... shifted my mind-set from thinking 'I’m right' to asking myself 'How do I know I’m right?' And I saw clearly that the best way to answer this question is by finding other independent thinkers who are on the same mission as me and who see things differently from me. By engaging them in thoughtful disagreement, I’d be able to understand their reasoning and have them stress-test mine. That way, we can all raise our probability of being right. In other words, I just want to be right — I don’t care if the right answer comes from me." - <a href="https://www.amazon.com/gp/product/1501124021/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1501124021&linkCode=as2&tag=principles00-20&linkId=c28b7b5430e581a3384015c701bd21a8">Ray Dalio</a>
 
 ## 4. Participate
-Having refined core principles and political views is not sufficient in order for governments to function: we must be also be active participants in the political process, which means we must communicate with other participants about issues of concern. This is especially true for those of us lucky enough to live in democracies.
-
-Remember our rule of thumb:
+Having refined core principles and political views is not sufficient in order for governments to function: we must be also be active participants in the political process, which means we must communicate with other participants about issues of concern. This is especially true for those of us lucky enough to live in democracies. Remember our rule of thumb:
 
 <span class="rule">Accurate Information + Engagement → Better Representation → Better Outcomes</span>
 
-Per this rule, engagement is necessary in order to get to better policy outcomes.
+Per this rule, <span class="rule">Engagement</span> is necessary in order to achieve better policy outcomes.
 
 ### 4.1 Prioritize
 There are many ways engage politically, so perhaps one of the first things to do is consider what issues are worth engaging in. To determine what issues are with engaging in, consider:
@@ -196,14 +195,14 @@ There are many ways engage politically, so perhaps one of the first things to do
 1. The current (and likely future) status of the issue
 1. The scope and complexity of the issue
 
-Let's look at considerations #1 and #2. Most people probably want to engage in issues that are most important to them, but only if that issue is actually a matter of contention. As an extreme example, being free (i.e. not enslaved) may be very important to someone (10 on a 10 scale), but they live in a society whose citizens are not at risk of losing their freedom at any time in the foreseeable future, it's an issue not worth engaging in at the moment. In contrast, if they also care about fair tax policies (8 on a 10 scale), and a large portion of their country's politicians are pushing for aggressive reductions in top marginal tax rates, that issue may be worth engaging in.
+Let's look at considerations #1 and #2. Most people probably want to engage in issues that are most important to them, but only if that issue is actually a matter of contention. As an extreme example, being free (i.e. not enslaved) may be very important to someone (10 on a 10 scale), but they live in a society whose citizens are not at risk of losing their freedom, and therefore it's an issue not worth engaging in. In contrast, if they also care about fair tax policies (8 on a 10 scale), and a large portion of their country's politicians are pushing for aggressive reductions in top marginal tax rates, that issue may be worth engaging in.
 
 Let's now look at consideration #3. If the scope and complexity of the issue at hand are broad, more time and effort may be needed to form a reasonable viewpoint. Therefore, it may be worth breaking the issue down into more manageable components, and then addressing the individual components. For example, consider again the issue of fair taxation in the US. Perhaps someone's goal is to make the public aware of how unfair the current tax system is. Tax law is very extensive and complex, and trying to address it holistically may very well take an entire career. Instead, it might make more sense for that person to focus on more specific areas of concern (e.g. carried interest deductions, estate tax laws, offshore tax havens, etc.).
 
 ### 4.2 Engage
 There are quite a few ways to engage politically. Engagement could be as simple as having conversations with friends and family. Other instances may call for protest. Nevertheless, the key idea of political engagement is to to make our voices heard in some way. This also means that we give others the opportunity to make their voices heard. Additionally, engagement is not mutually exclusive from refining our core principles and political views. So we should make efforts to speak up, listen, learn, and keep the conversation going.
 
-In democracies, perhaps the most important form of engagement is voting. Voting, in concept, is a key mechanism for citizens to convert their knowledge and beliefs into actual representation within our systems of governance. That representation will hopefully, and in aggregate, reflect our collective views in the form of better public policy decisions. It is hard to understate the importance of voting in democracies, so we should take the time and effort to vote!
+In democracies, perhaps the most important form of engagement is voting. Voting, in concept, is a key mechanism for citizens to convert their knowledge and beliefs into actual representation within our systems of governance. That representation will hopefully, and in aggregate, reflect our collective views in the form of better policy decisions. It is hard to understate the importance of voting in democracies, so we should take the time and effort to vote!
 
 Here are some tips to make the process go smoothly:
 
@@ -218,7 +217,7 @@ Here are some tips to make the process go smoothly:
 	1. Be aware of other voter requirements
 		- e.g. is an ID required?
   1. Make a plan
-    - Schedule work/school time off to vote (if necessary)
+    	1. Schedule work/school time off to vote
 1. Research the candidates and ballot initiatives
 	 1. Research candidates and initiatives early
 	 1. Which candidate has views that most closely mirror mine?
