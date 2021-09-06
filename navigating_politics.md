@@ -190,7 +190,7 @@ Having refined core principles and political views is not sufficient in order fo
 
 <span class="rule">Accurate Information + Engagement → Better Representation → Better Outcomes</span>
 
-Per this rule, <span class="rule">Engagement</span> is necessary in order to achieve better policy outcomes.
+Per this rule, engagement is necessary in order to achieve better policy outcomes.
 
 ### 4.1 Prioritize
 There are many ways engage politically, so perhaps one of the first things to do is consider what issues are worth engaging in. To determine what issues are with engaging in, consider:
