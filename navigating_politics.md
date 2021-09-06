@@ -1,12 +1,12 @@
 Right now, the world is facing a number of major crises. To name a few: climate change, nuclear proliferation, war, pandemics, pollution, economic inequality, and de-democratization. Given the magnitude of these crises, political solutions are often required.
 
-In democracies, solutions to these issues are crafted by representatives who are ultimately elected by voting citizens. In other words, citizens' voting choices indirectly shape the decisions made to address these issues. As such, the critical question is:
+In democracies, solutions to these issues are crafted by representatives who are ultimately elected by voting citizens. In other words, citizens' voting choices indirectly shape the decisions made to address these issues. Therefore, the critical question is:
 
 What can voters (and prospective voters) do to make the best possible decisions on who to vote for, so that effective political solutions can be crafted?
 
 Below are some ideas.
 
-Critically, my goal is not to convince anyone to accept any specific viewpoints, but rather, to establish a framework to help anyone think through any political issue. And hopefully, this framework will enable us to make better voting decisions.
+Critically, my goal is not to convince anyone to accept any specific viewpoints, but rather, to establish a framework to help us think through political issues. And hopefully, this framework will enable us to make better voting decisions.
 
 ## 1. Recognize the Importance of Politics
 First, a more fundamental question should be answered: Why should anyone care about politics at all? Politics can be boring, and political discussions often cause tensions between disagreeing sides. Moreover, no single ordinary person can move the needle in terms of creating substantive change, so is it even worth the headache?
